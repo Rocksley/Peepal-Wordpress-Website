@@ -1,0 +1,3012 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eleos v2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-30 09:54+0700\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ redux-framework
+# @ domain
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:401
+#: ReduxFramework/ReduxCore/framework.php:2758
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+# @ redux-framework
+# @ domain
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:402
+#: ReduxFramework/ReduxCore/framework.php:2760
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+# @ redux-framework
+# @ domain
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:403
+#: ReduxFramework/ReduxCore/framework.php:2764
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:434
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:435
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/extensions/customizer/extension_customizer.php:436
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+# @ redux-framework
+# @ domain
+# @ redux-framework-demo
+#: ReduxFramework/ReduxCore/framework.php:187
+#: ReduxFramework/ReduxCore/framework.php:199
+#: ReduxFramework/ReduxCore/framework.php:533
+#: ReduxFramework/ReduxCore/framework.php:539
+#: ReduxFramework/ReduxCore/framework.php:2176
+msgid "Options"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:527
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:527
+msgid "Redux Framework"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:836
+msgid "Dismiss"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:2021
+#: ReduxFramework/ReduxCore/framework.php:2023
+#: ReduxFramework/ReduxCore/framework.php:4662
+msgid "Import / Export"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:2045
+#: ReduxFramework/ReduxCore/framework.php:2047
+#: ReduxFramework/ReduxCore/framework.php:4694
+#: ReduxFramework/ReduxCore/framework.php:4912
+msgid "Options Object"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:2069
+#: ReduxFramework/ReduxCore/framework.php:2071
+#: ReduxFramework/ReduxCore/framework.php:4722
+#: ReduxFramework/ReduxCore/framework.php:4948
+msgid "System Info"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:2762
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:3258
+msgid "Default"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4417
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4535
+msgid "Expand"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4539
+#: ReduxFramework/ReduxCore/framework.php:5041
+msgid "Save Changes"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4543
+#: ReduxFramework/ReduxCore/framework.php:5045
+msgid "Reset Section"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4547
+#: ReduxFramework/ReduxCore/framework.php:5049
+msgid "Reset All"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4553
+#: ReduxFramework/ReduxCore/framework.php:5055
+msgid "Working..."
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4572
+msgid "Settings Imported!"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4581
+msgid "Settings Saved!"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4592
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4594
+msgid "error(s) were found!"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4596
+msgid "warning(s) were found!"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4796
+msgid "Import / Export Options"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4798
+msgid "Import Options"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4800
+msgid "Import from file"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4800
+msgid "Import from URL"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4815
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4840
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4859
+msgid "Import"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4859
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4865
+msgid "Export Options"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4874
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4884
+msgid "Copy"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4884
+msgid "Download"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4884
+msgid "Copy Link"
+msgstr ""
+
+# @ domain
+#: ReduxFramework/ReduxCore/framework.php:4926
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:119
+#: ReduxFramework/ReduxCore/inc/fields/color/field_color.php:72
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:136
+msgid "Background Repeat"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:152
+msgid "Background Clip"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:168
+msgid "Background Origin"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:183
+msgid "Background Size"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:198
+msgid "Background Attachment"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:218
+msgid "Background Position"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:273
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:307
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:155
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:121
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Upload"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/background/field_background.php:313
+#: ReduxFramework/ReduxCore/inc/fields/media/field_media.php:161
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:82
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:128
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:192
+msgid "Remove"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:112
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:172
+msgid "All"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:125
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:196
+msgid "Top"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:132
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:203
+msgid "Right"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:139
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:210
+msgid "Bottom"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:146
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:217
+msgid "Left"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:139
+msgid "Width"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:155
+msgid "height"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:168
+#: ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:169
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:227
+#: ReduxFramework/ReduxCore/inc/fields/spacing/field_spacing.php:228
+msgid "Units"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:55
+msgid "Password"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:79
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:59
+msgid "Select an item"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/select/field_select.php:120
+#: ReduxFramework/ReduxCore/inc/fields/select_image/field_select_image.php:134
+msgid "No items of this type were found."
+msgstr ""
+
+# @ redux-framework
+# @ eleos
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:197
+#: vc_shortcode.php:494 vc_shortcode.php:497 vc_shortcode.php:553
+#: vc_shortcode.php:556 vc_shortcode.php:680 vc_shortcode.php:683
+#: vc_shortcode.php:811 vc_shortcode.php:814
+msgid "Title"
+msgstr ""
+
+# @ redux-framework
+# @ eleos
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:135
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:199
+#: vc_shortcode.php:503 vc_shortcode.php:562 vc_shortcode.php:689
+#: vc_shortcode.php:820 vc_shortcode.php:991 vc_shortcode.php:1099
+msgid "Description"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:137
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:201
+msgid "URL"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:168
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:143
+msgid "Font family"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:166
+msgid "Standard Fonts"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:202
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:206
+msgid "Font style"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:206
+msgid "Style"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font subsets"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:233
+msgid "Subsets"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:233
+msgid "Font script"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:251
+msgid "Size"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:260
+msgid "Height"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:268
+msgid "Word Spacing"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Letter Spacing"
+msgstr ""
+
+# @ redux-framework
+# @ eleos
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:285
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:286
+#: vc_shortcode.php:73
+msgid "Text Align"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:309
+msgid "Backup Font Family"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:329
+msgid "Font color"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:656
+msgid "Google Webfonts"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/tracking.php:60
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+#: ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:299
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:299
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:398
+msgid "Repo"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:399
+msgid "Generator"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:400
+msgid "Issues"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:401
+msgid "Documentation"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:406
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/class.redux-plugin.php:408
+msgid "Activate Demo Mode"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/barebones-config.php:54
+msgid "Home Settings"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/barebones-config.php:55
+msgid "Redux Framework was created with the developer in mind. It allows for any theme developer to have an advanced theme panel with most of the features a developer would need. For more information check out the Github repo at: <a href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github.com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/barebones-config.php:63
+msgid "Web Fonts"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/barebones-config.php:66
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/barebones-config.php:67
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+# @ redux-framework-demo
+# @ eleos
+#: ReduxFramework/sample/barebones-config.php:82
+#: ReduxFramework/sample/sample-config.php:848
+msgid "Theme Information 1"
+msgstr ""
+
+# @ redux-framework-demo
+# @ eleos
+#: ReduxFramework/sample/barebones-config.php:83
+#: ReduxFramework/sample/barebones-config.php:89
+#: ReduxFramework/sample/sample-config.php:849
+#: ReduxFramework/sample/sample-config.php:855
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+# @ redux-framework-demo
+# @ eleos
+#: ReduxFramework/sample/barebones-config.php:88
+#: ReduxFramework/sample/sample-config.php:854
+msgid "Theme Information 2"
+msgstr ""
+
+# @ redux-framework-demo
+# @ eleos
+#: ReduxFramework/sample/barebones-config.php:93
+#: ReduxFramework/sample/sample-config.php:859
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/barebones-config.php:113
+#: ReduxFramework/sample/barebones-config.php:114
+msgid "Sample Options"
+msgstr ""
+
+# @ redux-framework-demo
+# @ eleos
+#: ReduxFramework/sample/barebones-config.php:211
+#: ReduxFramework/sample/sample-config.php:920
+#, php-format
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr ""
+
+# @ redux-framework-demo
+# @ eleos
+#: ReduxFramework/sample/barebones-config.php:213
+#: ReduxFramework/sample/sample-config.php:922
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+# @ redux-framework-demo
+# @ eleos
+#: ReduxFramework/sample/barebones-config.php:217
+#: ReduxFramework/sample/sample-config.php:926
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/sample-config.php:166
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:172
+#: ReduxFramework/sample/sample-config.php:175
+msgid "Current theme preview"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/sample-config.php:184
+#, php-format
+msgid "By %s"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/sample-config.php:185
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/sample-config.php:186
+msgid "Tags"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/sample/sample-config.php:191
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+# @ redux-framework-demo
+#: ReduxFramework/sample/sample-config.php:191
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:218
+msgid "Miscellaneous Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:223
+msgid "Preload Off?"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:224
+#: ReduxFramework/sample/sample-config.php:231
+#: ReduxFramework/sample/sample-config.php:238
+msgid "Look, it's on!"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:230
+msgid "Animation Off?"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:237
+msgid "Footer Widget Landing Page Off?"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:246
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:252
+#: ReduxFramework/sample/sample-config.php:256
+msgid "Favicon"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:255
+msgid "Favicon."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:263
+#: ReduxFramework/sample/sample-config.php:267
+#: ReduxFramework/sample/sample-config.php:654
+msgid "Logo"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:266
+msgid "logo."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:274
+msgid "Header Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:279
+msgid "Header Static Background Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:280
+msgid "Pick the header static background color for the theme (default: rgba(0,0,0,0.5))."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:287
+msgid "Header Scroll Background Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:288
+msgid "Pick the header scroll background color for the theme (default: #18191b)."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:295
+msgid "Header Scroll Border Bottom Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:296
+msgid "Pick the header scroll Border Bottom color for the theme (default: #333333)."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:303
+msgid "Header Text Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:304
+msgid "Pick the header text color for the theme (default: #fff)."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:311
+msgid "Menu style"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:312
+msgid "Icon Menu Style"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:313
+msgid "Menu Style"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:330
+msgid "Typography"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:336
+msgid "Heading 1"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:337
+msgid "Specify the heading 1 font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:351
+msgid "Heading 2"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:352
+msgid "Specify the heading 2 font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:366
+msgid "Heading 3"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:367
+msgid "Specify the heading 3 font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:381
+msgid "Heading 4"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:382
+msgid "Specify the heading 4 font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:396
+msgid "Heading 5"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:397
+msgid "Specify the heading 5 font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:411
+msgid "Heading 6"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:412
+msgid "Specify the heading 6 font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:427
+msgid "Menu item"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:428
+msgid "Specify the Menu item font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:442
+msgid "Blog Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:447
+#: ReduxFramework/sample/sample-config.php:449
+msgid "Blog custom excerpt lenght"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:448
+msgid "Input Blog custom excerpt lenght"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:455
+#: ReduxFramework/sample/sample-config.php:457
+msgid "The Blog Single Title"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:456
+msgid "Input blog single"
+msgstr ""
+
+# @ biss
+#: ReduxFramework/sample/sample-config.php:464
+msgid "Shop Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:469
+msgid "Background Main Shop Top Page"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:470
+msgid "Background Shop"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:476
+msgid "Background Single Product Top Page"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:477
+msgid "Background Single Product"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:485
+msgid "404 Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:490
+#: ReduxFramework/sample/sample-config.php:492
+msgid "404 Title"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:491
+msgid "Input 404 Title"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:498
+#: ReduxFramework/sample/sample-config.php:500
+msgid "404 Content"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:499
+msgid "Enter 404 Content"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:506
+#: ReduxFramework/sample/sample-config.php:508
+msgid "Button Back Home"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:507
+msgid "Text Button Go To Home."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:515
+msgid "Social Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:520
+msgid "Facebook Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:527
+msgid "Google+ Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:534
+msgid "RSS Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:541
+msgid "Twitter Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:548
+msgid "Github Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:555
+msgid "Youtube Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:562
+msgid "Linkedin Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:569
+msgid "Dribbble Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:576
+msgid "Behance Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:583
+msgid "Instagram Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:590
+msgid "Skype Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:597
+msgid "pinterest Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:604
+msgid "vimeo Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:611
+msgid "tumblr Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:618
+msgid "soundcloud Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:625
+msgid "lastfm Url"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:633
+msgid "Footer Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:639
+msgid "Footer Text"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:640
+msgid "Copyright Text"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:648
+msgid "Coming Soon Settings"
+msgstr ""
+
+# @ eleos
+# @ demeter
+#: ReduxFramework/sample/sample-config.php:657 vc_shortcode.php:371
+#: vc_shortcode.php:416
+msgid "Upload your logo."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:658
+msgid "Recommended size: Height: auto and Width: 120px"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:664
+msgid "Date Option"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:665
+msgid "No validation can be done on this field type"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:666
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:673
+#: ReduxFramework/sample/sample-config.php:674
+msgid "Background Image"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:675
+msgid "Use For Coming Soon Page"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:681
+#: ReduxFramework/sample/sample-config.php:682
+msgid "Link Video MP4"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:683
+#: ReduxFramework/sample/sample-config.php:691
+msgid "Use For Coming Soon Video"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:689
+#: ReduxFramework/sample/sample-config.php:690
+msgid "Link Video Webm"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:697
+#: ReduxFramework/sample/sample-config.php:698
+#: ReduxFramework/sample/sample-config.php:699
+#: ReduxFramework/sample/sample-config.php:720
+#: ReduxFramework/sample/sample-config.php:721
+#: ReduxFramework/sample/sample-config.php:722
+msgid "Coming Soon Title"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:705
+#: ReduxFramework/sample/sample-config.php:706
+#: ReduxFramework/sample/sample-config.php:707
+#: ReduxFramework/sample/sample-config.php:728
+#: ReduxFramework/sample/sample-config.php:729
+#: ReduxFramework/sample/sample-config.php:730
+msgid "Coming Soon Subtitle"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:714
+msgid "Hide Content Coming Soon Settings"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:736
+#: ReduxFramework/sample/sample-config.php:737
+msgid "Contact Form Shortcode"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:738
+msgid "Ex: [contact-form-7 id=\"283\" title=\"Contact form 1\"]"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:745
+msgid "Styling Options"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:750
+msgid "Theme Version"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:751
+#: ReduxFramework/sample/sample-config.php:752
+msgid "Dark or White"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:764
+#: ReduxFramework/sample/sample-config.php:767
+#: ReduxFramework/sample/sample-config.php:768
+msgid "Background Header All Pages"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:774
+msgid "Theme Main Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:775
+msgid "Pick the main color for the theme (default: #FAB207)."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:782
+msgid "Footer Text Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:783
+msgid "Pick the Footer Text color for the theme (default: #cccccc)."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:790
+msgid "Footer Background Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:791
+msgid "Pick the Footer Background color for the theme (default: #111111)."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:798
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:799
+msgid "Pick the Footer Bottom Background color for the theme (default: #0b0b0b)."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:807
+msgid "Body Font"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:808
+msgid "Specify the body font properties."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:821
+msgid "CSS Code"
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:822
+msgid "Paste your CSS code here."
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:832
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:833
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:834
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:838
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+# @ eleos
+#: ReduxFramework/sample/sample-config.php:877
+#: ReduxFramework/sample/sample-config.php:878
+msgid "eleos Options"
+msgstr ""
+
+# @ redux-framework
+#: ReduxFramework/tests/includes/class-tivwp-dm-controller.php:28
+msgid "Must call in of after the \"plugins_loaded\" action."
+msgstr ""
+
+# @ tivwp-dm
+#: ReduxFramework/tests/includes/class-tivwp-dm-controller.php:138
+#, php-format
+msgid "Unknown action \"%1$s\" specified for %2$s"
+msgstr ""
+
+# @ tivwp-dm
+#: ReduxFramework/tests/includes/class-tivwp-dm-controller.php:143
+#, php-format
+msgid "The unknown action has been replaced with \"%s\""
+msgstr ""
+
+# @ tivwp-dm
+#: ReduxFramework/tests/includes/class-tivwp-dm-controller.php:158
+#, php-format
+msgid "Automatic action performed: \"%s\""
+msgstr ""
+
+# @ tivwp-dm
+#: ReduxFramework/tests/includes/class-tivwp-dm.php:112
+msgid "Activate Development Plugins"
+msgstr ""
+
+# @ tivwp-dm
+#: ReduxFramework/tests/includes/class-tivwp-dm.php:119
+msgid "Deactivate Development Plugins"
+msgstr ""
+
+# @ tivwp-dm
+#: ReduxFramework/tests/includes/class-tivwp-dm.php:131
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+# @ eleos
+#: archive-service.php:9
+msgid "SERVICES"
+msgstr ""
+
+# @ eleos
+#: archive-service.php:39 content-audio.php:16 content-gallery.php:28
+#: content-image.php:28 content-video.php:16 content.php:20
+msgid "Read More"
+msgstr ""
+
+# @ eleos
+#: archive.php:11
+#, php-format
+msgid "Daily archives: %s"
+msgstr ""
+
+# @ eleos
+#: archive.php:14
+#, php-format
+msgid "Monthly archives: %s"
+msgstr ""
+
+# @ eleos
+#: archive.php:14
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ eleos
+#: archive.php:17
+#, php-format
+msgid "Yearly archives: %s"
+msgstr ""
+
+# @ eleos
+#: archive.php:17
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ eleos
+#: archive.php:20
+msgid "archives"
+msgstr ""
+
+# @ eleos
+#: author.php:9
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+# @ eleos
+#: category.php:9
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+# @ eleos
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ eleos
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ eleos
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+# @ eleos
+#: comments.php:38
+msgid "Leave a reply"
+msgstr ""
+
+# @ eleos
+#: comments.php:40
+msgid "Name *"
+msgstr ""
+
+# @ eleos
+#: comments.php:41
+msgid "Email *"
+msgstr ""
+
+# @ eleos
+#: comments.php:43
+msgid "Comment *"
+msgstr ""
+
+# @ eleos
+#: comments.php:44
+msgid "Send Message"
+msgstr ""
+
+# @ default
+#: framework/bfi_thumb-master/BFI_Thumb.php:120
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+# @ default
+#: framework/bfi_thumb-master/BFI_Thumb.php:235
+msgid "Image rotate failed."
+msgstr ""
+
+# @ default
+#: framework/bfi_thumb-master/BFI_Thumb.php:257
+msgid "Image opacity change failed."
+msgstr ""
+
+# @ default
+#: framework/bfi_thumb-master/BFI_Thumb.php:335
+msgid "Image color change failed."
+msgstr ""
+
+# @ default
+#: framework/bfi_thumb-master/BFI_Thumb.php:351
+msgid "Image grayscale failed."
+msgstr ""
+
+# @ default
+#: framework/bfi_thumb-master/BFI_Thumb.php:367
+msgid "Image negate failed."
+msgstr ""
+
+# @ tgmpa
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:268 functions.php:706
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tgmpa
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:269 functions.php:707
+msgid "Install Plugins"
+msgstr ""
+
+# @ tgmpa
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:270 functions.php:708
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:271
+msgid "Something went wrong."
+msgstr ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:273 functions.php:711
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:278 functions.php:716
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:283 functions.php:721
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:288 functions.php:726
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:293 functions.php:731
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:298 functions.php:736
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:303 functions.php:741
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:308 functions.php:746
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:313 functions.php:751
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:318 functions.php:756
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:322 functions.php:760
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:323
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ tgmpa
+# @ eleos
+#: framework/class-tgm-plugin-activation.php:324
+#: framework/class-tgm-plugin-activation.php:2276 functions.php:761
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:327
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:328 functions.php:763
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:645
+#: framework/class-tgm-plugin-activation.php:2501
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:719
+msgid "The remote plugin package is does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:719
+#: framework/class-tgm-plugin-activation.php:723
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:723
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:768
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:893
+#: framework/class-tgm-plugin-activation.php:1906
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1536
+msgid "External Source"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1540
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1545
+msgid "WordPress Repository"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1549
+msgid "Required"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1551
+msgid "Recommended"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1555
+msgid "Not Installed"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1557
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1640
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1659
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1705
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1721
+msgid "Plugin"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1722
+msgid "Source"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1723
+msgid "Type"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1724
+msgid "Status"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1742
+msgid "Install"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1743
+msgid "Activate"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1795
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:1892
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ tgmpa
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/class-tgm-plugin-activation.php:1910
+#: framework/class-tgm-plugin-activation.php:325
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2259
+msgid "Install package not available."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2260
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2261
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2262
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2263
+msgid "Plugin install failed."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2264
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2275
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2398
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2399
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2403
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2404
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2404
+#: framework/class-tgm-plugin-activation.php:2411
+msgid "Show Details"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2404
+#: framework/class-tgm-plugin-activation.php:2411
+msgid "Hide Details"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2405
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2406
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2410
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2411
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2412
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: framework/class-tgm-plugin-activation.php:2413
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:25
+msgid "Format Details"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:39
+msgid "Image"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:53
+msgid "Gallery"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:65
+msgid "Quote"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:81
+msgid "Author"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:93
+msgid "Audio"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:111
+msgid "Video"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:137
+msgid "Page Details"
+msgstr ""
+
+# @ eleos
+#: framework/meta-boxes.php:149
+msgid "Background Image Page Sub-header"
+msgstr ""
+
+# @ eleos
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+# @ eleos
+#: functions.php:53
+msgid "One Page Menu"
+msgstr ""
+
+# @ eleos
+#: functions.php:54
+msgid "Landing Page Menu"
+msgstr ""
+
+# @ eleos
+#: functions.php:72
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+# @ eleos
+#: functions.php:78
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ eleos
+#: functions.php:84
+msgctxt "Allura font: on or off"
+msgid "on"
+msgstr ""
+
+# @ eleos
+#: functions.php:188
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ eleos
+#: functions.php:190 functions.php:199
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ eleos
+#: functions.php:197
+msgid "Shop Sidebar"
+msgstr ""
+
+# @ eleos
+#: functions.php:206
+msgid "Footer One Widget Area"
+msgstr ""
+
+# @ eleos
+#: functions.php:208 functions.php:218 functions.php:228 functions.php:238
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+# @ eleos
+#: functions.php:216
+msgid "Footer Two Widget Area"
+msgstr ""
+
+# @ eleos
+#: functions.php:226
+msgid "Footer Three Widget Area"
+msgstr ""
+
+# @ eleos
+#: functions.php:236
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+# @ eleos
+#: functions.php:249
+msgid "Home"
+msgstr ""
+
+# @ eleos
+#: functions.php:461
+msgid "type to search&hellip;"
+msgstr ""
+
+# @ eleos
+#: functions.php:477
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ eleos
+#: functions.php:485
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wpb
+#: functions.php:528
+msgid "Fullwidth"
+msgstr ""
+
+# @ wpb
+# @ eleos
+#: functions.php:531 vc_shortcode.php:1255
+msgid "No"
+msgstr ""
+
+# @ wpb
+# @ eleos
+#: functions.php:532 vc_shortcode.php:1256
+msgid "Yes"
+msgstr ""
+
+# @ wpb
+#: functions.php:534
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+# @ wpb
+#: functions.php:541
+msgid "Animate"
+msgstr ""
+
+# @ wpb
+#: functions.php:544
+msgid "None"
+msgstr ""
+
+# @ wpb
+#: functions.php:545
+msgid "Fade In Up"
+msgstr ""
+
+# @ wpb
+#: functions.php:546
+msgid "Fade In Down"
+msgstr ""
+
+# @ wpb
+#: functions.php:547
+msgid "Fade In"
+msgstr ""
+
+# @ wpb
+#: functions.php:548
+msgid "Fade In Left"
+msgstr ""
+
+# @ wpb
+#: functions.php:549
+msgid "Fade In Right"
+msgstr ""
+
+# @ wpb
+#: functions.php:552
+msgid "Select Animate , Default: None"
+msgstr ""
+
+# @ eleos
+#: functions.php:709
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ eleos
+#: functions.php:762
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ eleos
+#: index.php:9
+msgid "Blog"
+msgstr ""
+
+# @ eleos
+#: page-templates/template-blog-fullwidth.php:46
+#: page-templates/template-blog-left-sidebar.php:71
+#: page-templates/template-blog.php:66 search.php:33
+msgid "Nothing Found Here!"
+msgstr ""
+
+# @ eleos
+#: page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:34
+#: page-templates/template-landing.php:24
+#: page-templates/template-onepage.php:24 page.php:61
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+# @ eleos
+#: page-templates/template-coming-soon-page.php:59
+#: page-templates/template-coming-soon-video.php:60
+msgid "days"
+msgstr ""
+
+# @ eleos
+#: page-templates/template-coming-soon-page.php:64
+#: page-templates/template-coming-soon-video.php:65
+msgid "hours"
+msgstr ""
+
+# @ eleos
+#: page-templates/template-coming-soon-page.php:69
+#: page-templates/template-coming-soon-video.php:70
+msgid "minutes"
+msgstr ""
+
+# @ eleos
+#: page-templates/template-coming-soon-page.php:74
+#: page-templates/template-coming-soon-video.php:75
+msgid "seconds"
+msgstr ""
+
+# @ eleos
+#: page.php:44
+msgid "Pages:"
+msgstr ""
+
+# @ eleos
+#: page.php:48
+msgid "Page"
+msgstr ""
+
+# @ eleos
+#: search.php:9
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+# @ eleos
+#: single.php:102
+msgid "By : "
+msgstr ""
+
+# @ eleos
+#: single.php:111 single.php:119
+msgid "0 comment"
+msgstr ""
+
+# @ eleos
+#: single.php:111 single.php:119
+msgid "1 comment"
+msgstr ""
+
+# @ eleos
+#: single.php:111 single.php:119
+msgid "% comments"
+msgstr ""
+
+# @ eleos
+#: single.php:126
+msgid "Next"
+msgstr ""
+
+# @ eleos
+#: single.php:127
+msgid "Next post:"
+msgstr ""
+
+# @ eleos
+#: single.php:129
+msgid "Previous"
+msgstr ""
+
+# @ eleos
+#: single.php:130
+msgid "Previous post:"
+msgstr ""
+
+# @ eleos
+#: tag.php:9
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:9
+msgid "OT Heading"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:29 vc_shortcode.php:332 vc_shortcode.php:350
+msgid "Text"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:35
+msgid "Add Text"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:42
+msgid "Element Tag"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:47
+msgid "Select Tag"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:49
+msgid "h1"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:51
+msgid "h2"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:53
+msgid "h3"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:55
+msgid "h4"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:57
+msgid "h5"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:59
+msgid "h6"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:61
+msgid "p"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:63
+msgid "div"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:66
+msgid "Section Element Tag"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:79
+msgid "Select Align"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:81
+msgid "left"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:83
+msgid "right"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:85
+msgid "center"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:87
+msgid "justify"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:91
+msgid "Section Overlay"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:102 vc_shortcode.php:108
+msgid "Font Size"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:119 vc_shortcode.php:125
+msgid "Color"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:137
+msgid "Class Extra"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:143
+msgid "Class extra for style"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:153
+msgid "OT Line Solid"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:166
+msgid "EX: circle.Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:177
+msgid "OT Button"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:197 vc_shortcode.php:203
+msgid "Button Text"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:214 vc_shortcode.php:220
+msgid "Button Link"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:233
+msgid "OT Home Video"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:246
+msgid "Nunber Slide Show"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:255 vc_shortcode.php:443
+msgid "Background Video"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:264 vc_shortcode.php:452
+msgid "Video Link mp4"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:273 vc_shortcode.php:461
+msgid "Video Link webm"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:282
+msgid "Text SubTitle"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:291 vc_shortcode.php:393 vc_shortcode.php:465
+#: vc_shortcode.php:1234
+msgid "Link Button"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:300
+msgid "Text Button"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:310
+msgid "OT Home Parallax"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:323 vc_shortcode.php:710 vc_shortcode.php:1108
+#: vc_shortcode.php:1135 vc_shortcode.php:1161 vc_shortcode.php:1170
+msgid "Number"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:341
+msgid "Link"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:358
+msgid "OT Home Image Landing"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:380 vc_shortcode.php:425
+msgid "Add your title"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:389 vc_shortcode.php:434
+msgid "Add your subtitle"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:395 vc_shortcode.php:467
+msgid "Add your link to button."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:403
+msgid "OT Home Video Landing"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:475
+msgid "OT Info Apps"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:485
+msgid "Add icon class"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:488
+msgid "Ex: icon-<code>wallet</code>, <a href='http://vegatheme.com/html/eleos-icons-etlinefont/' target='_blank'>view more icon class</a>"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:506 vc_shortcode.php:565 vc_shortcode.php:692
+#: vc_shortcode.php:823
+msgid "Content right."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:510 vc_shortcode.php:659 vc_shortcode.php:751
+msgid "CSS box"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:513 vc_shortcode.php:662 vc_shortcode.php:754
+msgid "Design Options"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:522
+msgid "Icon right"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:523
+msgid "Icon left"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:524
+msgid "Icon center"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:526
+msgid "Select Icon Position"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:534
+msgid "OT Quick Office 2"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:547 vc_shortcode.php:586 vc_shortcode.php:796
+msgid "Photo"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:573
+msgid "OT Video Tour"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:592
+msgid "Video Url"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:595
+msgid "Add youtube video link url, Ex: https://www.youtube.com/watch?v=efVWyPNd3xw"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:603
+msgid "OT Portfolio Gallery"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:613 vc_shortcode.php:884
+msgid "Text Show All Portfolio"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:616 vc_shortcode.php:887
+msgid "Text Filter Show All Portfolio."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:622 vc_shortcode.php:893
+msgid "Number portfolio per page"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:625 vc_shortcode.php:896
+msgid "Enter Number Portfolio."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:634
+msgid "OT Download Button"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:642 vc_shortcode.php:721
+msgid "Icon"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:649 vc_shortcode.php:728
+msgid "Select icon from library."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:653 vc_shortcode.php:736
+msgid "Link Banner Box"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:655 vc_shortcode.php:738
+msgid "Add link to banner."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:670
+msgid "OT Why Choose Us"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:701
+msgid "Use number type"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:702
+msgid "Use font icon"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:704
+msgid "Select type icon"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:713
+msgid "Add number"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:744
+msgid "Delay Animate"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:747
+msgid "Add number delay animate, Ex: .5 or 1"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:762
+msgid "OT Video Post"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:775
+msgid "Ex: http://player.vimeo.com/video/88883554 or http://www.youtube.com/embed/eP2VWNtU5rw"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:783
+msgid "OT Quick Office"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:802
+msgid "Height Photo"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:805
+msgid "Ex:480px, 500px..."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:831
+msgid "OT Our Facts"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:844
+msgid "Find <a target='_blank' href='http://vegatheme.com/html/etlinefont-icons/'>Here</a>"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:850
+msgid "Title Fact"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:853
+msgid "Title display in Our Facts box."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:859
+msgid "Number Fact"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:862
+msgid "Number display in Our Facts box."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:873
+msgid "OT Portfolio Filter"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:906
+msgid "OT Clients Logo"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:919
+msgid "Logos"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:928 vc_shortcode.php:1088
+msgid "Select Visible"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:930
+msgid "4 items"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:932
+msgid "5 items"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:934
+msgid "6 items"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:939
+msgid "Number visible"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:951
+msgid "OT Our Team"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:964
+msgid "Avarta of member, Recomended Size: 420 x 420"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:970
+msgid "Name"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:973
+msgid "Member's Name"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:979
+msgid "Job"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:982
+msgid "Member's job."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:997
+msgid "Icon 1"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1000 vc_shortcode.php:1018 vc_shortcode.php:1036
+#: vc_shortcode.php:1054
+msgid "EX: twitter, facebook, skype...Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1009 vc_shortcode.php:1027 vc_shortcode.php:1045
+#: vc_shortcode.php:1063
+msgid "Url."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1015
+msgid "Icon 2"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1033
+msgid "Icon 3"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1051
+msgid "Icon 4"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1075
+msgid "OT Testimonial Silder"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1090
+msgid "1 Col"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1092
+msgid "2 Cols"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1094
+msgid "3 Cols"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1096
+msgid "4 Cols"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1121
+msgid "OT Process"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1147
+msgid "OT Latest Blog Silder"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1179
+msgid " Pricing Table"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1189
+msgid "Title Pricing"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1192
+msgid "Title display in Pricing Table."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1198
+msgid "Price Pricing"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1201
+msgid "Price display in Pricing Table."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1207
+msgid "Per Time"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1210
+msgid "Price per time in Pricing Table."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1216
+msgid "Detail Pricing"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1219
+msgid "Content Pricing Table."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1225
+msgid "Label Button"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1228
+msgid "Text display in button."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1237
+msgid "Link in button."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1243
+msgid "Table Width (%)"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1246
+msgid "Style width Pricing Table. Ex: 4 columns - 25%, 5 columns: 20%, 3 columns: 33.33%."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1252
+msgid "Featured Pricing?"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1258
+msgid "Select Featured Pricing."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1264
+msgid "Style Table"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1267
+msgid "Style 1: Light"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1268
+msgid "Style 2: Dark"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1270
+msgid "Select Style Pricing Tables"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1280
+msgid "OT Google Map"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1291
+msgid "Height Map"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1294
+msgid "Please enter number height Map, 300, 350, 380, ..etc. Default: 420."
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1300
+msgid "Latitude"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1303
+msgid "Please enter <a href='http://www.latlong.net/'>Latitude</a> google map"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1309
+msgid "Longitude"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1312
+msgid "Please enter <a href='http://www.latlong.net/'>Longitude</a> google map"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1319
+msgid "Zoom Map"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1322
+msgid "Please enter Zoom Map, Default: 15"
+msgstr ""
+
+# @ eleos
+#: vc_shortcode.php:1333
+msgid "Icon Map marker, 85 x 85"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/result-count.php:34
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/loop/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/product-searchform.php:2
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+# @ woocommerce
+#: woocommerce/product-searchform.php:2
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
